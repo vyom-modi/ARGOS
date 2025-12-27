@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-groq
+fastapi
+uvicorn
+python-dotenv
+e2b-code-interpreter
+mcp
+pytest
+black
+isort
+websockets
+bandit
+gitpython
