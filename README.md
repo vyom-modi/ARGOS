@@ -85,6 +85,7 @@ Create a `.env` file in the `backend/` directory:
 GROQ_API_KEY=your_groq_key
 E2B_API_KEY=your_e2b_key
 LANGSMITH_API_KEY=your_langsmith_key (Optional)
+LANGCHAIN_TRACING_V2=true (Optional)
 ```
 
 ### 3. Frontend Setup
